@@ -1,6 +1,1 @@
-Ambil salah satu tabel dari rancangan tubes anda, buatlah CRUD lengkap
-dengan yang ada fungsi searchnya. Gunakan juga pagination, bisa menggunakan
-library pagination pada CI.
-
-RULE : 
-dilarang upload file zip/rar
+Jangan lupa import file database (ci_project.sql), kemudian atur koneksi databasenya di application/config/database.php.
